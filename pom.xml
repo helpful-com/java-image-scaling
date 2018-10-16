@@ -53,8 +53,8 @@
     <!-- Distribution to google code SVN -->
     <distributionManagement>
         <repository>
-            <id>GCP-Artifactory-Release</id>
-            <url>https://helpful.jfrog.io/helpful/libs-release-local</url>
+          <id>AWS-Artifactory-Release</id>
+          <url>https://artifactory.helpfultest.com/artifactory/libs-release-local</url>
         </repository>
     </distributionManagement>
 
